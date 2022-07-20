@@ -1,4 +1,8 @@
-# Simple React Query Project - https://rickandmortyapi.com/ 
+# Simple React Query Project - 
+
+```
+Api endpoint used : https://rickandmortyapi.com/ 
+```
 
 ### Inbuilt function: fetch
 - Many disadvantages
